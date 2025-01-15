@@ -1,0 +1,27 @@
+SADE package - By T.M. Rocha Filho (dimarti@unb.br - tmrf1962@gmail.com) and Annibal Figueiredo
+               Instituto de Física and International Center of Physics.
+               Universidade de BRasília - Brasília - BRAZIL
+
+The distribution files include:
+
+sade.mpl - Source code
+
+description.pdf - A brief description of command in SADE.
+
+Directories:
+
+benchmarks - MAPLE input files with some examples of computing Lie symmetries
+             for simple and non-trivial examples
+
+examples   - MAPLE worksheets with examples of use of all routines in SADE
+
+lib        - compiled library files for the package.
+
+To install the package simply add the full path of directory lib in the variable libname
+in MAPLE initilazation file (.mapleinit in LINUX) or simply out the file inside directory lib
+in the MAPLE main lib directory.
+
+Please report any bug, comment or suggestions to marciano@fis.unb.br
+
+We would be pleased to hear about applications of our package.
+
